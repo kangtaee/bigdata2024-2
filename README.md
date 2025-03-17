@@ -47,10 +47,8 @@
 | 기술 | 로고 |
 |------|------|
 | Python | ![Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png) |
-| Jupyter Notebook |![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
- |
-| pandas |![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
- |
+| Jupyter Notebook | ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) |
+| pandas | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) |
 | matplotlib | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) |
 | seaborn | ![seaborn](https://seaborn.pydata.org/_images/logo-mark-lightbg.svg) |
 
