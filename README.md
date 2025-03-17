@@ -32,10 +32,6 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-## 사진 첨부 방법
-- **로컬 이미지 사용**: `![이미지 설명](images/example.png)`
-- **외부 URL 사용**: `![이미지 설명](https://example.com/image.png)`
-
 ## 예시 이미지
 ![연령대별 지역화폐 사용금액](images/age_group_spending.png)
 
