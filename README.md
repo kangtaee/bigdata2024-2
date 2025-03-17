@@ -28,7 +28,7 @@
 
 ## 사용 기술 스택
 - **Python**
-  - **pandas**: 데이터 처리 및 분석
+  **pandas**: ![pandas](images/pandas_logo.svg)
   - **matplotlib**: 데이터 시각화
   - **seaborn**: 데이터 시각화
 
